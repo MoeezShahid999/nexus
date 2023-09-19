@@ -19,9 +19,7 @@ export const Contact = (props) => {
   const clearState = () => setState({ ...initialState });
 
   const handleSubmit = (e) => {
-    debugger;
     e.preventDefault();
-    console.log(name, email, message);
     emailjs
       .send(
         process.env.REACT_APP_SERVICE_ID,

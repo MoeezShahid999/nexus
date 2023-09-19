@@ -244,11 +244,12 @@ header .intro-text {
   padding-bottom: 200px;
   text-align: center;
 }
-/* Features Section */
-#features {
+/* Solutions Section */
+#solutions {
   background: #f6f6f6;
+  margin-top: 20px;
 }
-#features i.fa {
+#solutions i.fa {
   font-size: 38px;
   margin-bottom: 20px;
   transition: all 0.5s;
@@ -583,6 +584,13 @@ label {
   color: #608dfd;
   background: #fff;
 }
+/* Regions */
+
+#regions {
+  background: #f6f6f6;
+  padding: 20px 0 40px;
+}
+
 /* Footer Section*/
 #footer {
   background: #f6f6f6;
