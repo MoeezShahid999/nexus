@@ -4,7 +4,7 @@
     "paragraph": "Lorem ipsum dolor sit amet consectetur adipiscing elit, urna consequat felis vehicula class ultricies mollis dictumst, aenean non a in donec nulla. Phasellus ante pellentesque erat cum risus consequat imperdiet aliquam, integer placerat et turpis mi eros nec lobortis taciti, vehicula nisl litora tellus ligula porttitor metus."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "We are a company with a humble beginning in 2015, grown into a valid enterprise servicing more than 500 customers all around the globe in four Continents. We believe in competitive advantage, priceless leadership, above average management and innovation to stay at the top. We understand the risks and potential rewards but by putting our knowledge into practice, we continually learn from our many successes and a few failures.",
     "Why": [
       "Lorem ipsum dolors",
       "Tempor incididunts",
@@ -18,7 +18,7 @@
       "Lorem ipsum dolor"
     ]
   },
-  "Regions": ["UK", "UAE", "Austrailia", "Canada"],
+  "Regions": ["UK", "Middle East", "Austrailia", "Canada"],
   "Gallery": [
     {
       "title": "Project Title",
@@ -69,48 +69,72 @@
   "Services": [
     {
       "icon": "fa fa-solid fa-transformer-bolt",
-      "name": "Electricity",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Telemarketing",
+      "text": "We handle incoming and outgoing calls for multiple multinational companies and have the capability of operating inbound, outbound and blended call centers campaigns. We are customer service specialists who help field phone calls from customers with queries about a company’s services or products. Marketing the products of a company convincing the potential customers to buy it is also one thing we are experienced in. We have several departments in our organization for example quality, operations, complains handling unit, IT, etc which makes us capable of handling several complicated campaigns at one time efficiently.",
+      "hasDetails": true,
+      "categories": [
+        {
+          "heading": "UK",
+          "subCategories": [
+            {
+              "heading": "Energy",
+              "description": "We are B2B who work for Energy Suppliers in UK to generate customers and handle their telemarketing work."
+            },
+            {
+              "heading": "Card machine & Epos",
+              "description": "Nexus Solutions is working with Several POS Suppliers in UK our role is to generate customers for them and sell Epos and card machines in SME sector."
+            },
+            {
+              "heading": "Water & bin collection",
+              "description": "We offer water contracts and bin collection services in UK."
+            },
+            {
+              "heading": "Domestic utilities",
+              "description": "We facilitate customers in UK with domestic utilities; elect, gas, broadband"
+            }
+          ]
+        },
+        {
+          "heading": "AUS",
+          "subCategories": [
+            {
+              "heading": "Solar energy systems",
+              "description": "We have highly skilled and trained consultants who facilitate domestic and commercial consumers to replace their current energy system with solar energy systems in Australia."
+            },
+            {
+              "heading": "Heat pumps",
+              "description": "Nexus Solutions is helping to consumers to replace their current gas pumps with solar heat pumps."
+            }
+          ]
+        }
+      ]
     },
     {
       "icon": "fa fa-solid fa-gas-pump",
-      "name": "Gas",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-solid fa-dumpster",
-      "name": "Card Machines & EPOS",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-solid fa-water",
-      "name": "Water",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "IT software",
+      "text": "Nexus Solutions is a dynamic and cutting-edge IT services provider dedicated to delivering innovative solutions that empower businesses in the digital age. Specializing in a comprehensive range of IT services, we seamlessly integrate technology to optimize efficiency and drive success. Our team of skilled professionals is committed to understanding the unique needs of each client and tailoring bespoke solutions to enhance their operations. From strategic IT consulting and robust infrastructure development to advanced cybersecurity measures and agile software solutions, Nexus Solutions is your trusted partner in navigating the ever-evolving landscape of information technology. With a customer-centric approach, we strive to foster long-term relationships, ensuring that your business stays ahead of the curve in today's rapidly changing tech environment. Choose Nexus Solutions for a reliable and forward-thinking IT partner that propels your business toward sustained growth and excellence. In addition to our comprehensive IT services, Nexus Solutions specializes in three cutting-edge domains—Software as a Service (SaaS), E-Commerce and Artificial Intelligence (AI).",
+      "hasDetails": true,
+      "categories": [
+        {
+          "heading": "SaaS (Software as a Service)",
+          "description": "Our SaaS offerings provide businesses with scalable and user-friendly software solutions that can be accessed on-demand, reducing operational complexities and enhancing collaboration. Whether it's streamlining workflows, improving communication, or optimizing project management, our SaaS applications are tailored to meet the unique needs of your organization."
+        },
+        {
+          "heading": "E-Commerce",
+          "description": "Nexus Solutions extends its comprehensive suite of IT services to encompass specialized E-Commerce solutions, ensuring that businesses thrive in the dynamic online marketplace. Our E-Commerce services seamlessly integrate with your overall IT infrastructure, offering a holistic approach to digital commerce. From the development of scalable and secure E-Commerce platforms to the integration of payment gateways and logistics management, Nexus Solutions takes care of every aspect of your online retail presence."
+        },
+        {
+          "heading": "AI (Artificial Intelligence)",
+          "description": "Our expertise in Artificial Intelligence elevates businesses to new heights of efficiency and innovation. Leveraging state-of-the-art AI technologies, we develop solutions that automate processes, analyze vast datasets for valuable insights, and enhance decision-making capabilities. From machine learning algorithms to natural language processing, Nexus Solutions harnesses the power of AI to unlock unprecedented opportunities for your business."
+        }
+      ],
+      "footer": "With SaaS and AI at the forefront of our service offerings, Nexus Solutions is not just a conventional IT services provider but a forward-thinking partner committed to driving your business towards a future where technology is a powerful enabler of success."
     },
     {
       "icon": "fa fa-solid fa-coins",
-      "name": "Finance",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-solid fa-tower-cell",
-      "name": "Telecom",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-solid fa-tower-cell",
-      "name": "Bin Collection",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-solid fa-tower-cell",
-      "name": "Insurance",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-solid fa-tower-cell",
-      "name": "Meter Installations",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Labor arbitrage",
+      "text": "With removal and disintegration of barriers to international trade, jobs have moved to nations where labor and the cost of doing business is inexpensive and also contributing to this impoverished labor who thrive in potential but lack opportunity. We excel in foreign / offshore outsourcing with lowest cost workforce to produce goods and products. We can lower labor cost and increase profits by providing best human resource capable of end to end (E to E) capability with the potential to increase both efficiency and profits greatly saving on overheads and lower taxes.",
+      "hasDetails": true
     }
   ],
   "Testimonials": [
@@ -148,33 +172,38 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Ahtisham Shahid",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
+      "name": "Zeeshan But",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
+      "name": "Khuram Nazir",
       "job": "Senior Designer"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
+      "name": "Shuaib Ahmad Malik",
+      "job": "Project Manager"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Ch. Muhammad Atif Iftikhar",
       "job": "Project Manager"
     }
   ],
   "Contact": {
-    "address": "181 Wellington Road North, Stockport, England, SK4 2PB",
-    "registration": "14532331",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Office # 355-A, Lyallpur Trade Center, 4th floor, People’s Colony No 1, Small D Ground, Faisalabad",
+    "registration": "7399541-2",
+    "phone": "041-8712527",
+    "email": "nxssltn@gmail.com",
+    "facebook": "https://www.facebook.com/Jobs.Nexus/",
+    "instagram": "https://www.instagram.com/nexus_solutions_/",
+    "linkedin": "https://www.linkedin.com/company/1518164/admin/feed/posts/"
   },
   "Solutions": [
     {
