@@ -21,49 +21,49 @@
   "Regions": ["UK", "Middle East", "Austrailia", "Canada"],
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Tour",
+      "largeImage": "img/gallery/01.jpg",
+      "smallImage": "img/gallery/01.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Tour",
+      "largeImage": "img/gallery/02.jpg",
+      "smallImage": "img/gallery/02.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Tour",
+      "largeImage": "img/gallery/03.jpg",
+      "smallImage": "img/gallery/03.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Team Dinner",
+      "largeImage": "img/gallery/04.jpg",
+      "smallImage": "img/gallery/04.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Tour",
+      "largeImage": "img/gallery/05.jpg",
+      "smallImage": "img/gallery/05.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
+      "title": "Tour",
+      "largeImage": "img/gallery/06.jpeg",
+      "smallImage": "img/gallery/06.jpeg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
+      "title": "Independence Day",
+      "largeImage": "img/gallery/07.jpg",
+      "smallImage": "img/gallery/07.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
+      "title": "Tour",
+      "largeImage": "img/gallery/08.jpg",
+      "smallImage": "img/gallery/08.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Tour",
+      "largeImage": "img/gallery/09.jpg",
+      "smallImage": "img/gallery/09.jpg"
     }
   ],
   "Services": [

@@ -361,6 +361,7 @@ header .intro-text {
   overflow: hidden;
   position: relative;
   margin: 0;
+  max-height: 325px;
 }
 .hover-bg .hover-text {
   position: absolute;
